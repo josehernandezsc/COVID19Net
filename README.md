@@ -11,9 +11,26 @@ Grad-CAM.py constructs the influence representation image for a series of random
 
 This work relies on the COVID19 dataset collected by:
 
-@article{zhao2020COVID-CT-Dataset,
-  title={COVID-CT-Dataset: a CT scan dataset about COVID-19},
-  author={Zhao, Jinyu and Zhang, Yichen and He, Xuehai and Xie, Pengtao},
-  journal={arXiv preprint arXiv:2003.13865}, 
-  year={2020}
-}
+Zhao, Jinyu and Zhang, Yichen and He, Xuehai and Xie, Pengtao
+COVID-CT-Dataset: a CT scan dataset about COVID-19
+arXiv preprint arXiv:2003.13865
+2020
+
+## Requirements
+
+1. PyTorch
+1. Torchvision
+1. tqdm
+1. Pillow
+1. Pandas
+1. Numpy
+1. Scikit-image
+1. Scikit-learn
+1. pytorch-gradcam
+
+## Environment
+
+Development is based on Python 3.6.6 and was run on a NVIDIA K80 GPU with 12GB of internal memory.
+
+
+For instructions on dataset loading please refer to https://github.com/UCSD-AI4H/COVID-CT
