@@ -1,5 +1,5 @@
 # COVID19Net
-COVID19 CT scan visual recognition project
+COVID19 CT Scan Visual Recognition Project.
 
 This repository consists of three .py files:
 
@@ -35,5 +35,4 @@ Development is based on Python 3.6.6 and was run on a NVIDIA K80 GPU with 12GB o
 The final model parameters dictionary will be made available soon.
 
 
-
-For instructions on dataset loading please refer to https://github.com/UCSD-AI4H/COVID-CT
+For instructions on dataset handling and loading please refer to https://github.com/UCSD-AI4H/COVID-CT
