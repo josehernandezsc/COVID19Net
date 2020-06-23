@@ -3,7 +3,7 @@ COVID19 CT Scan Visual Recognition Project.
 
 This repository consists of three .py files:
 
-**Model_Training.py** shows the code developed by this repository's author for his paper titled "An Ensemble Approach for Multi-Stage Transfer Learning Models for COVID-19 Detection from Chest CT Scans". Preprint soon available. Model training is shown from the data preprocessing to the final ensemble model evaluation.
+**Model_Training.py** shows the code developed by this repository's author for his paper titled "An Ensemble Approach for Multi-Stage Transfer Learning Models for COVID-19 Detection from Chest CT Scans". Preprint soon available. Model training is shown from the data preprocessing to the final ensemble model evaluation. Proposed model is identified as MultCovNet.
 
 **Results_Evaluation.py** shows the evaluation metrics for the baseline ensemble method and the final ensemble model. This script uses the validation and test set scores and true labels obtained as CSVs from Model_Training.py script.
 
