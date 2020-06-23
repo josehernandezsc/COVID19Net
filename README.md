@@ -11,9 +11,9 @@ Grad-CAM.py constructs the influence representation image for a series of random
 
 This work relies on the COVID19 dataset collected by:
 
-Zhao, Jinyu and Zhang, Yichen and He, Xuehai and Xie, Pengtao
-COVID-CT-Dataset: a CT scan dataset about COVID-19
-arXiv preprint arXiv:2003.13865
+Zhao, Jinyu and Zhang, Yichen and He, Xuehai and Xie, Pengtao <br/>
+COVID-CT-Dataset: a CT scan dataset about COVID-19 <br/>
+arXiv preprint arXiv:2003.13865 <br/>
 2020
 
 ## Requirements
@@ -33,6 +33,5 @@ arXiv preprint arXiv:2003.13865
 Development is based on Python 3.6.6 and was run on a NVIDIA K80 GPU with 12GB of internal memory.
 
 The final model parameters dictionary will be made available soon.
-
 
 For instructions on dataset handling and loading please refer to https://github.com/UCSD-AI4H/COVID-CT
