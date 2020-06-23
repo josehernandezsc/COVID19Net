@@ -32,5 +32,8 @@ arXiv preprint arXiv:2003.13865
 
 Development is based on Python 3.6.6 and was run on a NVIDIA K80 GPU with 12GB of internal memory.
 
+The final model parameters dictionary will be made available soon.
+
+
 
 For instructions on dataset loading please refer to https://github.com/UCSD-AI4H/COVID-CT
