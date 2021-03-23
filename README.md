@@ -1,6 +1,8 @@
 # COVID19Net
 COVID19 CT Scan Visual Recognition Project.
 
+## The research paper on COVID19 diagnosis by chest CT scans is now published. You can find it here: https://doi.org/10.1016/j.ibmed.2021.100027
+
 This repository consists of three .py files:
 
 **Model_Training.py** shows the code developed by this repository's author for his paper titled "An Ensemble Approach for Multi-Stage Transfer Learning Models for COVID-19 Detection from Chest CT Scans". Preprint soon available. Model training is shown from the data preprocessing to the final ensemble model evaluation. Proposed model is identified as MultCovNet.
